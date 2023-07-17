@@ -7,7 +7,7 @@ Test your BI skills on a real-world dataset focusing on supply chain analytics. 
 ## Data Cleaning and Transformation
 After carefully investigating the data available; fulfilment, orders and shipment and inventory, some data issues were discovered and this is how they were addressed;
 
-1. **Negative Shipment Days**: Removed records of these transactions.
+1. **Negative Shipment Time**: Removed records of these transactions.
 2. **Orders taking too long to ship**: Assumed these orders weren't recorded properly therefore filtered orders that took more than two weeks to ship.
 3. **Correction of Country Names**: Some country's names had special characters and these were corrected to ensure correct names.
 
@@ -44,12 +44,12 @@ Out of 118 products, 5 were classified as High-Value products, 3 were classified
 
 ## Insights
 ### Sales
-- Decline in Revenue in the last 3 months of 2017 due to the unavailability of highest-selling products resulting in an 85% drop in quantity ordered from September 2017. This ultimately resulted in a 16.34% drop in revenue generated in 2017 compared to 2016.
+- Decline in Revenue in Q4 of 2017 due to the unavailability of highest-selling products resulted in a 70% drop in revenue compared to Q3 2017. This also translated in an 85% drop in quantity sold in Q4 2017 compared to Q3 2017.
 - From October to December 2017, for the first time recorded, some markets did not make any orders; Africa (3 months), Latin America and North America (2 months) and Pacific Asia (1 month).
 - Field and Stream Sportsman 16 Gun Fire Safe generated the most revenue and profit despite not being the most ordered product because it is among the most expensive products with a profit margin of 55%.
 - Golf, Fanshop and Apparel were the most sold product departments with 15460, 15265 and 13277 quantity sold respectively.
 - Perfect Fitness Perfect Rip Deck, Nike Men’s Dri-Fit Victory Golf Polo and O’Brien Men’s Neoprene Life Vest were the best-performing Products with 9804,9190,7709 quantities sold respectively.
-- 
+- Most of our customers stay in Latin America (2667), closely followed by Europe (2645), then North America (2170), then Pacific Asia (1369) and Africa (611). 
 
 
 ### Inventory
