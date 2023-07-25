@@ -68,4 +68,20 @@ Out of 118 products, 5 were classified as High-Value products, 3 were classified
 
 ## Recommendations
 
+### Sales
+- Forecasting and Replenishment: Implement a more effective inventory forecasting and replenishment system. This can help ensure high-selling products are always in stock, preventing revenue losses like those experienced in Q4 2017.
+- Targeted Marketing Initiatives: For markets that didn't make orders for certain periods, consider deploying targeted marketing strategies. It could be pop-up sales, discounts or bundles targeted specifically for those markets.
+- Promote High-Margin Products: Double down on promotional strategies around your highest-margin products like the Fire Safe, to optimize profits. This might include product positioning, up-selling and cross-selling, or strategic pricing.
+
+  
+### Inventory
+- Demand-based Management: Consider refining inventory management strategies based on product demand. High-value goods tend to have higher turnover rates, so it's beneficial to maintain smaller, more frequent replenishment cycles for these products to continue this trend.
+- Preventing backorders: Leverage historical sales data for products with high backorders, like the Pelican Sunstream, to anticipate demand and prevent future backorders.
+
+
+### Shipping
+- Revamp the Delivery Process: To increase on-time shipping, evaluate the current delivery process, identify inefficiencies, and consider alternative logistics strategies. Perhaps consider outsourcing to a third-party logistics provider if in-house improvements aren't enough.
+- Optimize Warehouse Operations: If far more shipments are coming from the USA warehouse than Puerto Rico, you may need to rebalance your inventory locations. Consider splitting products based on the geographical demand between your warehouses to optimize delivery times.
+- Review Shipping Classes: It's important to distinguish between different shipping classes. If there's no perceived difference, customers won't see the value in paying for premium shipping options. Start by differentiating clearly and guaranteeing delivery periods for your Standard Class Shipping.
+
 
