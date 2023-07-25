@@ -1,5 +1,5 @@
 # Supply-Chain-Analysis-Challenge
-This is my entry for Data Camp Supply Chain Analytics competition.
+This is my entry for Datacamp Supply Chain Analytics competition.
 
 ## Background
 Test your BI skills on a real-world dataset focusing on supply chain analytics. As the main data analyst for Just In Time, you will help solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create insightful dashboards to inform business stakeholders about potential problems and propose structural business improvements.
@@ -8,7 +8,7 @@ Test your BI skills on a real-world dataset focusing on supply chain analytics. 
 After carefully investigating the data available; fulfilment, orders and shipment and inventory, some data issues were discovered and this is how they were addressed;
 
 1. **Negative Shipment Time**: Removed records of these transactions.
-2. **Orders taking too long to ship**: Assumed these orders weren't recorded properly therefore filtered orders that took more than two weeks to ship.
+2. **Orders taking too long to ship**: Given the shipment modes and reorder fulfilment times, it is highly unlikely that orders took more than 14 days to ship. Orders that took more than 14 days to ship were filtered.
 3. **Correction of Country Names**: Some country's names had special characters and these were corrected to ensure correct names.
 
 ### Measures Created
@@ -20,21 +20,21 @@ After carefully investigating the data available; fulfilment, orders and shipmen
 - Number of Orders
 - Quantity Sold
 - Average Order Value (AOV)
+- Number of Customers
 
 #### Inventory
-- Stock Available
+- Units Available
 - Inventory Cost
 - Inventory Turnover Rate
 - Backorder
 - Reorder Level
-- Stock Indicator
 - Inventory in Progress
 
 #### Shipment
 - Average Delivery Time
-- Late Delivery
+- Late Delivery Rate
 
-### XYZ & ABC Analysis
+### ABC & XYZ Analysis
 ABC/XYZ analysis is a tool for classifying items in a product catalogue. It can help improve inventory management, production planning, and customer satisfaction.
 
 ABC analysis classifies products into three categories; High, Medium and Low based on revenue generated and XYZ classifies products into Stable, Flunctuant and Unstable based on their demand volatility.
@@ -44,9 +44,9 @@ Out of 118 products, 5 were classified as High-Value products, 3 were classified
 
 ## Insights
 ### Sales
-- Decline in Revenue in Q4 of 2017 due to the unavailability of highest-selling products resulted in a 70% drop in revenue compared to Q3 2017. This also translated in an 85% drop in quantity sold in Q4 2017 compared to Q3 2017.
+- Decline in Revenue in Q4 of 2017 due to the unavailability of highest-selling products resulted in a 70% drop in revenue compared to Q3 2017. This also translated into an 85% drop in quantity sold in Q4 2017 compared to Q3 2017.
 - From October to December 2017, for the first time recorded, some markets did not make any orders; Africa (3 months), Latin America and North America (2 months) and Pacific Asia (1 month).
-- Field and Stream Sportsman 16 Gun Fire Safe generated the most revenue and profit despite not being the most ordered product because it is among the most expensive products with a profit margin of 55%.
+- Field and Stream Sportsman 16 Gun Fire Safe generated the most revenue and profit with a profit margin of 55%.
 - Golf, Fanshop and Apparel were the most sold product departments with 15460, 15265 and 13277 quantity sold respectively.
 - Perfect Fitness Perfect Rip Deck, Nike Men’s Dri-Fit Victory Golf Polo and O’Brien Men’s Neoprene Life Vest were the best-performing Products with 9804,9190,7709 quantities sold respectively.
 - Most of our customers stay in Latin America (2667), closely followed by Europe (2645), then North America (2170), then Pacific Asia (1369) and Africa (611). 
@@ -67,7 +67,5 @@ Out of 118 products, 5 were classified as High-Value products, 3 were classified
 
 
 ## Recommendations
-Backordered goods: These are goods that are currently out of stock and will be shipped to you as soon as they become available.Pending shipment:** These are goods that have been ordered but have not yet been packed and shipped.
-Unfulfilled order: This is an order that has not yet been shipped for any reason, such as a delay in processing or a lack of stock.
-On hold:** This is an order that has been placed but is not being processed at this time. This may be due to a problem with the order, such as a missing item or an incorrect shipping address.
+
 
