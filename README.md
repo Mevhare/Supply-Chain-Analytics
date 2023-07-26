@@ -45,11 +45,11 @@ Out of 118 products, 5 were classified as High-Value products, 3 were classified
 ## Insights
 ### Sales
 - Decline in Revenue in Q4 of 2017 due to the unavailability of highest-selling products resulted in a 70% drop in revenue compared to Q3 2017. This also translated into an 85% drop in quantity sold in Q4 2017 compared to Q3 2017.
+- More than 90% of sales were made to new customers between October, November and December 2017.
 - From October to December 2017, for the first time recorded, some markets did not make any orders; Africa (3 months), Latin America and North America (2 months) and Pacific Asia (1 month).
 - Field and Stream Sportsman 16 Gun Fire Safe generated the most revenue and profit with a profit margin of 55%.
 - Golf, Fanshop and Apparel were the most sold product departments with 15460, 15265 and 13277 quantity sold respectively.
-- Perfect Fitness Perfect Rip Deck, Nike Men’s Dri-Fit Victory Golf Polo and O’Brien Men’s Neoprene Life Vest were the best-performing Products with 9804,9190,7709 quantities sold respectively.
-- Most of our customers stay in Latin America (2667), closely followed by Europe (2645), then North America (2170), then Pacific Asia (1369) and Africa (611). 
+- Perfect Fitness Perfect Rip Deck, Nike Men’s Dri-Fit Victory Golf Polo and O’Brien Men’s Neoprene Life Vest were the best-performing Products with 9804,9190,7709 quantities sold respectively. 
 
 
 ### Inventory
