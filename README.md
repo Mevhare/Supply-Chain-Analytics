@@ -19,14 +19,13 @@ After carefully investigating the data available; fulfilment, orders and shipmen
 - Profit Margin
 - Number of Orders
 - Quantity Sold
-- Average Order Value (AOV)
 - Number of Customers
 
 #### Inventory
 - Units Available
 - Inventory Cost
 - Inventory Turnover Rate
-- Backorder
+- Overstock/Backorder
 - Reorder Level
 - Inventory in Progress
 
@@ -40,6 +39,9 @@ ABC/XYZ analysis is a tool for classifying items in a product catalogue. It can 
 ABC analysis classifies products into three categories; High, Medium and Low based on revenue generated and XYZ classifies products into Stable, Flunctuant and Unstable based on their demand volatility.
 
 Out of 118 products, 5 were classified as High-Value products, 3 were classified as Medium value products and 110 were classified as low-value products. On the other hand, 35 products were classified as Stable demand, 22 as Flunctuant demand and 66 as Unstable demand.
+
+### Data flaws
+Profit figures aren't logical because higher profits were generated on prices eg $150 profit on a $100 sale. The assumption is made that there are different suppliers, multiple wholesale discounts or Just In Time is being paid by brands to sell their products. 
 
 
 ## Insights
@@ -57,7 +59,7 @@ Out of 118 products, 5 were classified as High-Value products, 3 were classified
 - Apparel, Fanshop and Golf were the most expensive product departments to keep in inventory.
 - High Value goods have the highest turnover rate of 68.86 followed by medium-value (44.18) and low-value (28.99).
 - Stable demand products have the highest turnover rate of 57.1 followed by Flunctaunt demand (20.45) and Unstable demand (31.43). Unstable demand goods have a higher turnover rate than fluctuant demand products because a number of high-value products have unstable demand.
-- Pelican Sunstream 100 Kayak had the highest number of backorders (253) while the remaining products all had less than 51 backorders each.
+- Golf, Fan Shop and Apparel product departments struggled with backorders the most.
 
 ### Shipping 
 - On-time Shipping is very poor due to the fact that only about 40% of orders are delivered on time.
@@ -73,11 +75,12 @@ Out of 118 products, 5 were classified as High-Value products, 3 were classified
 - Forecasting and Replenishment: Implement a more effective inventory forecasting and replenishment system. This can help ensure high-selling products are always in stock, preventing revenue losses like those experienced in Q4 2017.
 - Targeted Marketing Initiatives: For markets that didn't make orders for certain periods, consider deploying targeted marketing strategies. It could be pop-up sales, discounts or bundles targeted specifically for those markets.
 - Promote High-Margin Products: Double down on promotional strategies around your highest-margin products like the Fire Safe, to optimize profits. This might include product positioning, up-selling and cross-selling, or strategic pricing.
+- Customer Retention: Given the high percentage of new customer sales in Q4 2017, fostering customer loyalty and repeat business with an effective customer retention strategy would be beneficial. This could include personalized follow-up communications, loyalty programs or exclusive discounts for returning customers.
 
   
 ### Inventory
 - Demand-based Management: Consider refining inventory management strategies based on product demand. High-value goods tend to have higher turnover rates, so it's beneficial to maintain smaller, more frequent replenishment cycles for these products to continue this trend.
-- Preventing backorders: Leverage historical sales data for products with high backorders, like the Pelican Sunstream, to anticipate demand and prevent future backorders.
+- Preventing backorders: Leverage historical sales data for product departments with high backorders, like Golf, Fan Shop and Apparel, to anticipate demand and prevent future backorders.
 
 
 ### Shipping
