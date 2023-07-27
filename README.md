@@ -88,4 +88,11 @@ Profit figures aren't logical because higher profits were generated on prices eg
 - Optimize Warehouse Operations: If far more shipments are coming from the USA warehouse than Puerto Rico, you may need to rebalance your inventory locations. Consider splitting products based on the geographical demand between your warehouses to optimize delivery times.
 - Review Shipping Classes: It's important to distinguish between different shipping classes. If there's no perceived difference, customers won't see the value in paying for premium shipping options. Start by differentiating clearly and guaranteeing delivery periods for your Standard Class Shipping.
 
+## Dashboard
+Power BI Link: https://app.powerbi.com/view?r=eyJrIjoiZDhhZWQ2NjYtZDlmNS00ZTUwLWFmYTktZDUyNTc3NTlhOGUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+
+![Afe_Mevhare_just_in_time](Afe_Mevhare_just_in_time.jpg)
+
+
 
