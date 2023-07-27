@@ -92,7 +92,7 @@ Profit figures aren't logical because higher profits were generated on prices eg
 Power BI Link: https://app.powerbi.com/view?r=eyJrIjoiZDhhZWQ2NjYtZDlmNS00ZTUwLWFmYTktZDUyNTc3NTlhOGUwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 
-![Afe_Mevhare_just_in_time](Afe_Mevhare_just_in_time.jpg)
+![Afe_Mevhare_just_in_time](Images/Afe_Mevhare_just_in_time.jpg)
 
 
 
